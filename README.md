@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Myle21/Myle21/output/snake.svg" alt="Snake animation" />
-
-###
