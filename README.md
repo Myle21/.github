@@ -19,6 +19,6 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://www.discordapp.com/users/384330551290626068" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
