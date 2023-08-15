@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Myle and I'm an Indie game developer from Russia</h2>
+<h2 align="left">Hi 👋! I'm Kuro, an Indie game developer from Russia</h2>
 
 ###
 
