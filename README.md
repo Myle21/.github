@@ -1,20 +1,11 @@
-<h2 align="left">Hi 👋! I'm Myle, an Indie game developer from Russia</h2>
+<h2 align="left">Hi 👋, I'm Myle!</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/vIasnkin22gAAAAC/cheekrub.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+- I primarily work with golang for backend
+- But i also work with C# and gdscript for gamedev
+- I am currently working on a few projects, some of which are web and some are Gamedev related
+- Actively learning chinese
 
 ###
 
